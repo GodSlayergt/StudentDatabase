@@ -1,0 +1,1 @@
+package com.gt.springmvchibernate.aop;
